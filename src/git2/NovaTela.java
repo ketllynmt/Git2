@@ -9,6 +9,6 @@ package git2;
  *
  * @author 182220029
  */
-public class teste {
+public class NovaTela {
     
 }
